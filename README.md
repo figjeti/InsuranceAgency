@@ -1,3 +1,3 @@
 # InsuranceAgency
 
-###The Insurance Company that was created by the people and for the people!
+### The Insurance Company that was created by the people and for the people!
